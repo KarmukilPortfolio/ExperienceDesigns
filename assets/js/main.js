@@ -115,7 +115,7 @@
 			var on = function() {
 
 				// Galleries.
-					$('.gallery')
+					$('.galleryq')
 						.scrollex({
 							top:		'30vh',
 							bottom:		'30vh',
